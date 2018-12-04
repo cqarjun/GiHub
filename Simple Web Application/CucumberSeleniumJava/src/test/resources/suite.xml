@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite1" verbose="7" parallel="classes">
+<test name="Test" >
+        <classes>
+         <class name="com.cucumber.runner.Item_1___Armen_Runner" />
+         <class name="com.cucumber.runner.Add_item_with_sku_CQ_0002_and_qty_5_to_shopping_cartRunner" />
+         <class name="com.cucumber.runner.Add_item_with_sku_CQ_0003_and_qty_5_to_shopping_cartRunner" />
+         <class name="com.cucumber.runner.Avoid_Shopping_page_displays_after_successful_loginRunner" />
+         <class name="com.cucumber.runner.Add_item_with_sku_abc_and_qty__1_to_shopping_cartRunner" />
+         <class name="com.cucumber.runner.Node_Activity__Check_Out_Runner" />
+         <class name="com.cucumber.runner.Remove_CQ_0001Runner" />
+        </classes>
+     </test>
+</suite>

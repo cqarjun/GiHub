@@ -170,6 +170,16 @@
     <element xmi:type="com.conformiq.creator.structure.dsl:DataTable" href="Login.sl#qmla9c8dbeda8844813bf3e86076de05732"/>
     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OPzwxZecEeO2kMTUvLWaPg" x="360" y="300" width="169" height="73"/>
   </children>
+  <children xmi:type="notation:Node" xmi:id="_IA0aoPeuEeigsOMA1xogJQ" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_IA1owPeuEeigsOMA1xogJQ" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_IA1owfeuEeigsOMA1xogJQ" type="7003"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_IA0aofeuEeigsOMA1xogJQ"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_IA0aoveuEeigsOMA1xogJQ" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_IA0ao_euEeigsOMA1xogJQ"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_IA0apPeuEeigsOMA1xogJQ"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="Login.sl#qml5a4901dbc69743028e36593664513b4a"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IA0apfeuEeigsOMA1xogJQ" x="626" y="182"/>
+  </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_55fjMZNOEeO_KayZfGtJow"/>
   <element xmi:type="com.conformiq.creator.structure.dsl:Model" href="Login.sl#/"/>
   <edges xmi:type="notation:Edge" xmi:id="_tduDcOWqEeO38P18M5j4Ig" type="4008" source="_GOHLMJecEeO2kMTUvLWaPg" target="_IQwYYJecEeO2kMTUvLWaPg">
